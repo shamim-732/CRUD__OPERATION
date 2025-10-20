@@ -116,7 +116,3 @@ function deleteUser(i) {
 function closeForm() {
   userForm.classList.add("hidden");
 }
-
-window.editUser = editUser;
-window.deleteUser = deleteUser;
-window.closeForm = closeForm;
